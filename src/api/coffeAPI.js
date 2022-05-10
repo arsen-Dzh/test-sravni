@@ -1,0 +1,1 @@
+export const allCoffee = () => 'https://random-data-api.com/api/coffee/random_coffee?size=20';

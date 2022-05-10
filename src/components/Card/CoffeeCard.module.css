@@ -1,0 +1,11 @@
+.stack {
+    display: flex !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+    flex-wrap: wrap;
+}
+
+.chip {
+    margin: 0 5px 5px 0;
+    padding: 2px !important;
+}
