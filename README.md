@@ -23,3 +23,5 @@
 ![Снимок экрана от 2022-05-10 10-27-49](https://user-images.githubusercontent.com/84536856/167575568-1540e798-a3e8-43ed-a921-1d53d0d50638.png)
 
 ![Снимок экрана от 2022-05-10 10-28-58](https://user-images.githubusercontent.com/84536856/167575650-a8940557-464d-4fde-8f60-92ae8563ef1e.png)
+
+![Снимок экрана от 2022-05-10 11-12-48](https://user-images.githubusercontent.com/84536856/167581913-58e0326f-7483-4bb2-9e65-2327773804d3.png)
